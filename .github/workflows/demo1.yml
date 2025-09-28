@@ -12,8 +12,6 @@ on:
       - 'main'
       - 'praneet/*'
       - 'feat/**'
-    paths:
-      - '**.jsx'
     paths-ignore:
       - '.github/workflows/*.yml'
 
